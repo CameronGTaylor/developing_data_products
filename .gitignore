@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+.vscode
+.DS_Store
+__pycache__/
+*.csv
+env.py
+*.txt
+spark-warehouse
+*.crc
+*.json
+env
